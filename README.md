@@ -67,8 +67,8 @@ The `google.colab.*` modules are **built-in to Colab** and do not require instal
 
 Example images showing object detection results:
 
-- ![Detected Objects - Image 1](picture1)
-- ![Detected Objects - Image 2](picture2)
+- ![Detected Objects - Image 1](images/picture1)
+- ![Detected Objects - Image 2](images/picture2)
 
 
 ---
